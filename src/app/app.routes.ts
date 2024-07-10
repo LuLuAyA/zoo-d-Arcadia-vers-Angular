@@ -8,6 +8,7 @@ import { BilletterieComponent } from './billetterie/billetterie.component';
 import { ContactComponent } from './contact/contact.component';
 import { FooterComponent } from './footer/footer.component';
 import { InfosComponent } from './infos/infos.component';
+import { HistoireComponent } from './histoire/histoire.component';
 
 export const routes: Routes = [
     { path: '', component: HomeComponent},
@@ -19,5 +20,7 @@ export const routes: Routes = [
     { path: 'contact', component: ContactComponent},
     { path: 'footer', component: FooterComponent},
     { path: 'infos', component: InfosComponent},
+    { path: 'Histoire' , component: HistoireComponent  },
+
 
 ];

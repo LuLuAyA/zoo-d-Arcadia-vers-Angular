@@ -9,11 +9,12 @@ import { AnimauxComponent } from "./animaux/animaux.component";
 import { BilletterieComponent } from './billetterie/billetterie.component';
 import { ContactComponent } from './contact/contact.component';
 import { InfosComponent } from './infos/infos.component';
+import { HistoireComponent } from './histoire/histoire.component';
 
 @Component({
   selector: 'ess-root',
   standalone: true,
-  imports: [RouterOutlet, HomeComponent, FormulaireComponent, ServiceComponent, NavbarComponent, FooterComponent, AnimauxComponent, BilletterieComponent, ContactComponent, InfosComponent],
+  imports: [RouterOutlet, HomeComponent, FormulaireComponent, ServiceComponent, NavbarComponent, FooterComponent, AnimauxComponent, BilletterieComponent, ContactComponent, InfosComponent, HistoireComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

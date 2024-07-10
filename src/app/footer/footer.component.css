@@ -79,8 +79,7 @@ li {
 .copyrhigt {
     height: 30px;
     width: 1800px;
-    margin-left: 50px;
-
+  
 }
 
 .text_copyrhigt {
@@ -88,6 +87,7 @@ li {
     width: 1800px;
     height: 30px;
     background-color: black;
+    margin-top: 153px;
     padding-top: 5px;
-    bottom: -337px;
+    right: 0px;
 }
