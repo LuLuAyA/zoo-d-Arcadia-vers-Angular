@@ -36,20 +36,17 @@ nav.menu {
 
   .btn-menu-recherche {
     background-color:white;
+    color: black;
     border-radius: 10px;
     padding-top: 5px;
     padding-left: 5px;
     text-align: start;
-    text-decoration: none;
-    display: inline-block;
     font-size: 14px;
     margin-inline: 30px;
     height: 25px;
     width: 300px;
     cursor: pointer;
-    position: relative;
-    z-index: 1;
-    overflow: hidden;
+    bottom: 5px;
   }
 
   .logo {

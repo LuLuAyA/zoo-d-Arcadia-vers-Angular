@@ -10,11 +10,17 @@ import { BilletterieComponent } from './billetterie/billetterie.component';
 import { ContactComponent } from './contact/contact.component';
 import { InfosComponent } from './infos/infos.component';
 import { HistoireComponent } from './histoire/histoire.component';
+import { AvisComponent } from './avis/avis.component';
+import { BureauComponent } from './bureau/bureau.component';
+import { EspaceComponent } from './espace/espace.component';
+import { RecompenseComponent } from './recompense/recompense.component';
+import { ValeursComponent } from './valeurs/valeurs.component';
+
 
 @Component({
   selector: 'ess-root',
   standalone: true,
-  imports: [RouterOutlet, HomeComponent, FormulaireComponent, ServiceComponent, NavbarComponent, FooterComponent, AnimauxComponent, BilletterieComponent, ContactComponent, InfosComponent, HistoireComponent],
+  imports: [RouterOutlet, HomeComponent, FormulaireComponent, ServiceComponent, NavbarComponent, FooterComponent, AnimauxComponent, BilletterieComponent, ContactComponent, InfosComponent, HistoireComponent, AvisComponent, BureauComponent, EspaceComponent, RecompenseComponent, ValeursComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
