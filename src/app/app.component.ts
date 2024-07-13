@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HomeComponent } from './home/home.component';
-import { FormulaireComponent } from './formulaire/formulaire.component';
 import { ServiceComponent } from './service/service.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from "./footer/footer.component";
@@ -20,7 +19,7 @@ import { ValeursComponent } from './valeurs/valeurs.component';
 @Component({
   selector: 'ess-root',
   standalone: true,
-  imports: [RouterOutlet, HomeComponent, FormulaireComponent, ServiceComponent, NavbarComponent, FooterComponent, AnimauxComponent, BilletterieComponent, ContactComponent, InfosComponent, HistoireComponent, AvisComponent, BureauComponent, EspaceComponent, RecompenseComponent, ValeursComponent],
+  imports: [RouterOutlet, HomeComponent, ServiceComponent, NavbarComponent, FooterComponent, AnimauxComponent, BilletterieComponent, ContactComponent, InfosComponent, HistoireComponent, AvisComponent, BureauComponent, EspaceComponent, RecompenseComponent, ValeursComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
