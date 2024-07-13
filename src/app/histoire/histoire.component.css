@@ -17,15 +17,6 @@
 }
 
   
-.logo-histoire {
-    z-index: 1;
-    position: absolute;
-    margin-left: 10px;
-    margin-top: 101px;
-    height: 200px;
-    width: 200px;
-    cursor: pointer;
-}
 
 .titre-histoire {
     position: absolute;

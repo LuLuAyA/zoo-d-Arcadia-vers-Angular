@@ -1,0 +1,40 @@
+<h2 class="titre-tarif">Tarif saison 2024</h2>
+    <img class="baniere-tarif" src="..\assets\Baniere ECF\baniere tarif.png" alt="Tarif saison 2024">
+        <div class="tarif">
+            <p>
+                Billets à la journée
+                Tarifs sur notre billetterie en ligne Profitez d’une remise en achetant vos billets sur notre billetterie en ligne <br> Vous bénéficierez également d’un accès rapide grâce à un coupe-file.<br>
+                eBillets saison (valables du 10/02/2024 au 11/11/2024 selon le calendrier d’ouverture)<br>Adulte ou enfant de 11 ans et + : 25€ au lieu de 27€<br>Enfant de 3 à 10 ans : 19€ au lieu de 21€<br>
+                Afin de faciliter le traitement d’éventuels problèmes liés à votre commande,<br> nous vous invitons à renseigner votre numéro de téléphone en plus de votre adresse email au moment de la commande.<br>
+                Tarifs aux caisses du parcSaison (valable du 10/02/2024 au 11/11/2024 selon le calendrier d’ouverture)<br>Adulte ou enfant de 11 ans et + : 27€<br>Enfant de 3 à 10 ans : 21€<br>Enfant – 3 ans : gratuit<br>Personne à mobilité réduite (sur justificatif),<br> Demandeur d’emploi (sur dernière actualisation) : 25.50€<br>
+                Les mineurs âgés de 15 à 17 ans peuvent effectuer une visite sans la surveillance d’un adulte,<br> sous réserve de présenter une autorisation parentale à leur arrivée à l’accueil du zoo.<br>
+                Zoo Pass saison 2024<br>
+                Grâce à une carte d’abonnement amortie dès la 2ème visite,<br> profitez d’un accès illimité au zoo d’Arcadia durant toute la saison en cours.<br> 
+                Adulte ou enfant de 11 ans et + 53€<br> Enfant de 3 à 10 ans : 39€
+            </p>
+
+            <form>
+                <div class="ticket-type">
+                  <label for="adult-quantity">Adultes:</label>
+                  <input type="number" id="adult-quantity" name="adult-quantity" min="0" max="10" required>
+                </div>
+                <div class="ticket-type">
+                  <label for="child-quantity">Enfants:</label>
+                  <input type="number" id="child-quantity" name="child-quantity" min="0" max="10" required>
+                </div>
+                <label for="name">Nom: </label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email: </label>
+                <input type="email" id="email" name="email" required>
+                <div class="cart-summary">
+                  <p>Adultes: <span id="adult-total">0</span> x 30€ = <span id="adult-price">0€</span></p>
+                  <p>Enfants: <span id="child-total">0</span> x 15€ = <span id="child-price">0€</span></p>
+                  <p class="total">Total: <span id="total-price">0€</span></p>
+                </div>
+                <div class="payment-methods">
+                  <img src="..\assets\images\visa.png" alt="Visa" onclick="processPayment('visa')">
+                  <img src="..\assets\images\mastercard.png" alt="Mastercard" onclick="processPayment('mastercard')">
+                  <img src="..\assets\images\paypal.png" alt="PayPal" onclick="processPayment('paypal')">
+                </div>
+                <button class="valider" type="button" onclick="processPayment('card')">Payer</button>
+              </form>
