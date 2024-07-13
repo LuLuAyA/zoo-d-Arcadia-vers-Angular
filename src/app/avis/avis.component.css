@@ -1,0 +1,52 @@
+.baniere-avis {
+    position: relative;
+    width: 1905px;
+    height: 500px;
+  }  
+   
+  
+  .titre-avis {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 820px;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .avis {
+    margin-top: 200px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 200px;
+  }
+
+  .avis {
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 300px;
+  }
+
+  .avis-client {
+    text-align: start;
+    margin-left: 300px;
+  }
+
+  .client {
+    text-align: end;
+    margin-top: 30px;
+  }
+
+  
+.C2etoiles{
+  display: inline-block;
+  cursor: pointer;
+  color: yellow;
+}
+
+.C2etoiles div{
+  display: inline-block;
+  padding: 5px;
+}
+.C2etoiles div::after{
+  content:"\002605"; 
+}
