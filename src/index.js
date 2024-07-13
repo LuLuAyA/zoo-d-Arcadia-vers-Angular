@@ -58,3 +58,10 @@ function createSlider(sliderId) {
   // Mise à jour du résumé du panier à chaque changement des quantités
   document.getElementById("adult-quantity").addEventListener("input", updateCartSummary);
   document.getElementById("child-quantity").addEventListener("input", updateCartSummary);
+
+  // formulaire de contact //
+
+  // Initialization for ES Users
+import { Input, Ripple, initMDB } from "mdb-ui-kit";
+
+initMDB({ Input, Ripple });

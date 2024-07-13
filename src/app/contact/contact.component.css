@@ -1,0 +1,22 @@
+
+.baniere-contact {
+    width: 1905px;
+    height: 500px;
+    margin-bottom: 50px;
+  }    
+  
+  .btn-envoyer {
+    background-color: #343907;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .formulaire {
+    margin: 150px 100px 100px 100px;
+    font-weight: bold;
+  }
+
+  .titre-contact {
+    margin: 50px 0px 0px 750px;
+    font-weight: bold; 
+  }
