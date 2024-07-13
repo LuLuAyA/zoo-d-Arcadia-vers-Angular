@@ -1,0 +1,21 @@
+.baniere-service {
+    position: relative;
+    width: 1905px;
+    height: 500px;
+  }    
+   
+  .titre-service {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 820px;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .service {
+    margin-top: 200px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 100px;
+  }
+  
