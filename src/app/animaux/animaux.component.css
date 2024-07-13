@@ -88,6 +88,27 @@
     height: 200px;
     width: 200px;
   } 
+
+  .rhino.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .tigres.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  }
+
+  .suricats.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
   
   .titre-giraffes {
     text-align: center;
