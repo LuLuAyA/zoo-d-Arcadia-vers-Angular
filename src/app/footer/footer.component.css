@@ -1,0 +1,93 @@
+.container_footer {
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.footer {
+   height: 155px;
+   width: 1800px;
+   background-color: #3A2426;
+   margin-left: 50px;
+   display: flex;
+   justify-content: space-between;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    padding-top: 2px;
+}
+
+.adresse {
+    height:150px;
+    width: 200px;
+    color: white;
+    margin-inline: 100px;
+}
+.avis {
+    height: 150px;
+    width: 200px;
+    color: white;
+    margin-inline: 100px;
+    margin-top: 15px;
+
+}
+.horaires {
+    height: 150px;
+    width: 200px;
+    color: white;
+    margin-inline: 100px;
+}
+.formulaire {
+    height: 150px;
+    width: 200px;
+    color: white;
+   margin-right: 200px;
+}
+
+.btn {
+    border: 1px solid;
+    color: black;
+    background-color: #F3E0BF;
+    font-weight: bold;
+    width: 150px;
+    z-index: 2;
+    position: relative;
+    margin-top: 75px;
+    margin-left: 75px;
+    
+}
+
+
+li {
+    color: white;
+    background-color: #9F9545;
+    width: 300px;
+    height: 135px;
+    position: absolute;
+    z-index: 1;
+    padding-top: 15px;
+    list-style: none;
+}
+
+.text {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.copyrhigt {
+    height: 30px;
+    width: 1800px;
+  
+}
+
+.text_copyrhigt {
+    text-align: center;
+    width: 1800px;
+    height: 30px;
+    background-color: black;
+    margin-top: 153px;
+    padding-top: 5px;
+    right: 0px;
+}

@@ -1,0 +1,50 @@
+.baniere-tarif {
+    position: relative;
+    width: 1905px;
+    height: 500px;
+  }    
+  
+  
+.titre-tarif {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 820px;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+.tarif {
+     margin-top: 160px;
+    text-align: center;
+    font-weight: bold;
+  }
+ /* billetterie*/
+  .cart-summary {
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .cart-summary p {
+    margin: 5px 0;
+  }
+  .cart-summary .total {
+    font-weight: bold;
+  }
+  .payment-methods {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .payment-methods img {
+    width: 50px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+
+  .ticket-type {
+    margin: 15px;
+  }
+
+  .valider {
+    margin: 30px;
+  }

@@ -1,0 +1,52 @@
+.menu-espace {
+    position: absolute;
+    background-color: #343907;
+    z-index: 1; 
+    width: 1905px;
+    height: 35px;
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .logo-espace {
+    z-index: 1;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+  }
+  
+  .texte-espace {
+    margin-top: 150px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .titre-espace{
+    margin-top: 20px;
+    width: 1905px;
+    text-align: center;
+    position: absolute;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .baniere-espace {
+    position: relative;
+    width: 1905px;
+    height: 700px;
+    bottom: 100px;
+  }  
+  
+  .animaux {
+    height: 150px;
+    width: 150px;
+  }
+
+  .container {
+    padding-top: 50px;
+  }
+ 

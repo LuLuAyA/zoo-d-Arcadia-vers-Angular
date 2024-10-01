@@ -1,0 +1,134 @@
+
+.container-hompage {
+  height: 500px;
+  width: auto;
+}
+.baniere-homepage {
+  position: relative;
+  width: 1905px;
+  height: 500px;
+}    
+
+.logo {
+  z-index: 1;
+  position: absolute;
+  margin-left: 10px;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+}
+
+li {
+  position: relative;
+  list-style: none;
+  display:inline-block;
+  width: 200px;
+ 
+}
+
+nav.menu {
+  position: absolute;
+  background-color: #343907;
+  z-index: 1; 
+  width: 1905px;
+  height: 35px;
+  display: block;
+  text-align: center;
+}
+
+.btn-menu {
+  background-color:#fbe5c0;
+  border-radius: 10px;
+  padding-top: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-inline: 40px;
+  height: 25px;
+  width: 150px;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.btn-menu-recherche {
+  background-color:white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  text-align: start;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-inline: 30px;
+  height: 25px;
+  width: 300px;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.presentation {
+  text-align: start;
+  width: 1905px;
+  position: absolute;
+  top: 550px;
+  left: 230px;
+  font-weight: bolder;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 40px;
+}
+
+.identite{
+display: flex;
+align-items: center;
+font-weight: bold;
+justify-content: space-between;
+margin: 100px 150px 0px 150px;
+cursor: pointer;
+}
+
+.Nos-éspaces {
+  height: 200px;
+  width: 200px;
+}
+
+
+
+.icon {
+  text-align: center;
+  font-weight: bold;
+}
+
+.nos-valeurs {
+  height: 200px;
+  width: 200px;
+
+}
+
+.annimaux {
+  height: 200px;
+  width: 200px;
+}
+
+
+.Nos-action-pour-la-nature {
+  height: 200px;
+  width: 200px;
+}
+
+.Nos-éspaces {
+  height: 200px;
+  width: 200px;
+}
+
+

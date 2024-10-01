@@ -1,0 +1,558 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "line",
+      "version": 41,
+      "versionNonce": 1886233961,
+      "index": "a2",
+      "isDeleted": false,
+      "id": "3keenWp2Gl0r0QVmu_WLw",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 919,
+      "y": 112,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 18,
+      "height": 820,
+      "seed": 1429736777,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1714223085433,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          18,
+          820
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 40,
+      "versionNonce": 173248007,
+      "index": "a3",
+      "isDeleted": false,
+      "id": "9rm-d0opPEew4Bps9PLRC",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 343,
+      "y": 149,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "width": 313,
+      "height": 35,
+      "seed": 1671935175,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714223529821,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "Donnée de l'application",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Donnée de l'application",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 38,
+      "versionNonce": 1427069897,
+      "index": "a4",
+      "isDeleted": false,
+      "id": "OFYWZWSj_7IKagYAANhhl",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1059,
+      "y": 151,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "width": 405,
+      "height": 35,
+      "seed": 1476817191,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714223253445,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "Fonctionnalité de l'application",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Fonctionnalité de l'application",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 765,
+      "versionNonce": 1119773955,
+      "index": "a5",
+      "isDeleted": false,
+      "id": "a4LFHI-63Lu5_yBepmguQ",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 284,
+      "y": 218,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 624,
+      "height": 375,
+      "seed": 468648361,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714230579279,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "- Zoo en France prés de la foret de Brocéliande en Bretagne\n- possède tout type d'animaux répartie par habitat \n(savane, jungle, marais)\n- le zoo est indépendant énergétiquement dans l'esprit écologie.\n- le zoo propose des services gratuit et payant\n- présentation et histoire du zoo\n- découverte des habitat et des animaux \nainsi que tout les caractéristique des animaux\n- visite journalière du vétérinaire qui fait un rapport \ntout les jours \n- les employer donnes quotidiennement a manger au animaux \net font un rapport sur leurs activités\n- statistique de consultation a chaque click sur les animaux\naugmente de 1 a chaque click\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "- Zoo en France prés de la foret de Brocéliande en Bretagne\n- possède tout type d'animaux répartie par habitat \n(savane, jungle, marais)\n- le zoo est indépendant énergétiquement dans l'esprit écologie.\n- le zoo propose des services gratuit et payant\n- présentation et histoire du zoo\n- découverte des habitat et des animaux \nainsi que tout les caractéristique des animaux\n- visite journalière du vétérinaire qui fait un rapport \ntout les jours \n- les employer donnes quotidiennement a manger au animaux \net font un rapport sur leurs activités\n- statistique de consultation a chaque click sur les animaux\naugmente de 1 a chaque click\n",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 344,
+      "versionNonce": 573579597,
+      "index": "a9",
+      "isDeleted": false,
+      "id": "7f_KNTIe_LUyCS84OFndU",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1005,
+      "y": 233,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 794,
+      "height": 50,
+      "seed": 2030137129,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714232553912,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": " espace soigneur (email comme user Name et mot de passe crée par le soigneur)\n- pour saisir les données sur les animaux ",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": " espace soigneur (email comme user Name et mot de passe crée par le soigneur)\n- pour saisir les données sur les animaux ",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 1815,
+      "versionNonce": 190521037,
+      "index": "aB",
+      "isDeleted": false,
+      "id": "IoW8tcA_foFwEOVU9MQZs",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1009,
+      "y": 284.22701475595926,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 899,
+      "height": 649.2622020431328,
+      "seed": 1430470695,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714232581753,
+      "link": null,
+      "locked": false,
+      "fontSize": 19.977298524404084,
+      "fontFamily": 1,
+      "text": "- nourriture donnée, le grammage de la nourriture, date de passage, l'heure de passage\n- validation ou non des commentaire laisser par les visiteurs\n- modifier les services du zoo\nespace vétérinaire (email comme user Name et mot de passe crée par le vétérinaire)\n- pour saisir différentes donnes sur les animaux\n- l'état des animaux, nourriture proposer, le grammage de la nourriture, date de passage, \n  détail de l'animal, mettre un commentaire sur l'habitat des animauxcet donner son avis \n  sur le rafraichissement de l'habitat\n- avoir un visuel sur le fichier de remplissage des soigneurs pour suivre.\n\nespace administrateur \n- crée les compte pour les soigneurs et vétérinaire\n- modifier les horaires les services les habitat des animaux( création, \n  mise a jour ou suppression\n- emplacement compte rendue vétérinaire pour suivre les visites\n- un Dashboard montrant le nombre de consultation par animal quel plait le plus\n\nespace visiteur (formulaire de contact avec demande d'un email et possibilité de compte\npour billetterie et réservation)\n- espace pour donnée les avis\n- formulaire de contact\n- billetterie en ligne\n- espace de réservation (habitat insolite, visite)\n \n\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "- nourriture donnée, le grammage de la nourriture, date de passage, l'heure de passage\n- validation ou non des commentaire laisser par les visiteurs\n- modifier les services du zoo\nespace vétérinaire (email comme user Name et mot de passe crée par le vétérinaire)\n- pour saisir différentes donnes sur les animaux\n- l'état des animaux, nourriture proposer, le grammage de la nourriture, date de passage, \n  détail de l'animal, mettre un commentaire sur l'habitat des animauxcet donner son avis \n  sur le rafraichissement de l'habitat\n- avoir un visuel sur le fichier de remplissage des soigneurs pour suivre.\n\nespace administrateur \n- crée les compte pour les soigneurs et vétérinaire\n- modifier les horaires les services les habitat des animaux( création, \n  mise a jour ou suppression\n- emplacement compte rendue vétérinaire pour suivre les visites\n- un Dashboard montrant le nombre de consultation par animal quel plait le plus\n\nespace visiteur (formulaire de contact avec demande d'un email et possibilité de compte\npour billetterie et réservation)\n- espace pour donnée les avis\n- formulaire de contact\n- billetterie en ligne\n- espace de réservation (habitat insolite, visite)\n \n\n",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "line",
+      "version": 36,
+      "versionNonce": 1604523943,
+      "index": "aC",
+      "isDeleted": false,
+      "id": "Vx0jEqbt-mtcnbGY-ihww",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1015,
+      "y": 258,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "width": 160,
+      "height": 1,
+      "seed": 1187024905,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1714224566401,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          160,
+          -1
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 114,
+      "versionNonce": 1291902887,
+      "index": "aG",
+      "isDeleted": false,
+      "id": "Bm-leF8BGKDHZEmwZfgHD",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1006,
+      "y": 380,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "width": 182,
+      "height": 2,
+      "seed": 91415945,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1714225464864,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          182,
+          -2
+        ]
+      ]
+    },
+    {
+      "type": "freedraw",
+      "version": 6,
+      "versionNonce": 1932819335,
+      "index": "aH",
+      "isDeleted": false,
+      "id": "pfqiQTBDx3s7BWDF1gzUq",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1017,
+      "y": 447,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "width": 0.0001,
+      "height": 0.0001,
+      "seed": 637471591,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714225214168,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "freedraw",
+      "version": 126,
+      "versionNonce": 1645232359,
+      "index": "aI",
+      "isDeleted": false,
+      "id": "DIXWeq7Zn9uz_IgRbIo_p",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1006,
+      "y": 556,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "width": 240,
+      "height": 5,
+      "seed": 1888568105,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1714225495888,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          12,
+          -1
+        ],
+        [
+          44,
+          -1
+        ],
+        [
+          61,
+          -1
+        ],
+        [
+          80,
+          -1
+        ],
+        [
+          96,
+          -1
+        ],
+        [
+          102,
+          -1
+        ],
+        [
+          112,
+          -1
+        ],
+        [
+          113,
+          -1
+        ],
+        [
+          125,
+          -1
+        ],
+        [
+          144,
+          1
+        ],
+        [
+          167,
+          3
+        ],
+        [
+          190,
+          4
+        ],
+        [
+          202,
+          4
+        ],
+        [
+          210,
+          4
+        ],
+        [
+          221,
+          4
+        ],
+        [
+          226,
+          4
+        ],
+        [
+          231,
+          4
+        ],
+        [
+          235,
+          4
+        ],
+        [
+          238,
+          4
+        ],
+        [
+          239,
+          4
+        ],
+        [
+          240,
+          3
+        ],
+        [
+          233,
+          0
+        ],
+        [
+          229,
+          0
+        ],
+        [
+          228,
+          -1
+        ],
+        [
+          228,
+          -1
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "line",
+      "version": 42,
+      "versionNonce": 1274158343,
+      "index": "aM",
+      "isDeleted": false,
+      "id": "DbRgKHugFy1uL57r1Lujb",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1007,
+      "y": 733,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "width": 151,
+      "height": 1,
+      "seed": 1873326087,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1714225531780,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          151,
+          -1
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

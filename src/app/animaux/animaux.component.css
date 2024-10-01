@@ -1,0 +1,199 @@
+.titre-espece{
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 1905px;
+    text-align: center;
+    position: absolute;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  .baniere-espece {
+    position: relative;
+    width: 1905px;
+    height: 500px;
+    margin-bottom: 50px;
+  }    
+  
+  .menu-espece {
+    position: absolute;
+    background-color: #343907;
+    z-index: 1; 
+    width: 1905px;
+    height: 35px;
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .giraffes.img-fluid{
+    cursor: pointer;
+    margin: 50px;
+    margin-left: 150px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .oiseaux.img-fluid{
+    cursor: pointer;
+    margin: 100px 0px 0px 150px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .carnivores.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .gibier.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+  .singes.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  }
+
+  .aquatique.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .leopard.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .lions.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .reptile.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .rhino.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+
+  .tigres.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  }
+
+  .suricats.img-fluid {
+    cursor: pointer;
+    margin: 100px 0px 0px 170px;
+    height: 200px;
+    width: 200px;
+  } 
+  
+  .titre-giraffes {
+    text-align: center;
+    margin-top: 150px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 55px;
+  }
+  
+  .titre-voliere {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+  }
+  
+  .titre-carnivores {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 75px;
+  }
+  
+  .titre-chevaux {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 75px;
+  }
+  .titre-singes {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 70px;
+  }
+  .titre-aquatique {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 75px;
+  }
+  .titre-leopard {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 75px;
+  }
+  .titre-lions {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 75px;
+  }
+  .titre-reptile {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 75px;
+  }
+  .titre-rhino {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+  }
+  .titre-tigres {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+  }
+  .titre-suricats {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+  }
+  
+  
