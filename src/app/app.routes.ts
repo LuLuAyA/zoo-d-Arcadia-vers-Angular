@@ -23,7 +23,7 @@ export const routes: Routes = [
     { path: 'Histoire' , component: HistoireComponent  },
     { path: 'home' , component: HomeComponent},
     { path: 'infos', component: InfosComponent},
-    { path: 'Recompense' , component: RecompenseComponent},
+    { path: 'recompense' , component: RecompenseComponent},
     { path: 'service', component: ServiceComponent},
     { path: 'valeurs' , component: ValeursComponent},
 
